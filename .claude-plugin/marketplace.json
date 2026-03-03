@@ -1,0 +1,27 @@
+{
+	"name": "code-quality-agent-skills",
+	"owner": {
+		"name": "Kyle J Ryan",
+		"email": "kyle@kylejryan.com"
+	},
+	"metadata": {
+		"description": "Code quality and engineering excellence agent skills for Claude Code",
+		"version": "1.0.0"
+	},
+	"plugins": [
+		{
+			"name": "distinguished-engineer-code-quality",
+			"description": "Distinguished Engineer-level code quality standards. Use when writing, reviewing, or refactoring code to enforce correctness, clarity, and changeability across any language.",
+			"source": "./",
+			"strict": false,
+			"skills": ["./skills/distinguished-engineer-code-quality"]
+		},
+		{
+			"name": "systems-level-code-leverage",
+			"description": "Staff+ engineering patterns for maximum leverage per line of code. Use when designing abstractions, building reusable primitives, or reducing code through architecture.",
+			"source": "./",
+			"strict": false,
+			"skills": ["./skills/systems-level-code-leverage"]
+		}
+	]
+}
