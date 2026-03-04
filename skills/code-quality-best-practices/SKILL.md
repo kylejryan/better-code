@@ -1,20 +1,16 @@
-# Distinguished Engineer Code Quality
+---
+name: code-quality-best-practices
+description: Distinguished Engineer-level code quality standards for writing, reviewing, and refactoring code. Use this skill when writing new code, reviewing pull requests, refactoring existing code, designing module boundaries, choosing design patterns, fixing bugs, addressing code smells, or optimizing performance across any programming language.
+license: MIT
+metadata:
+  author: kylejryan
+  version: "1.0.0"
+  organization: kylejryan
+  date: March 2026
+  abstract: Comprehensive code quality guide operating at the Distinguished Engineer / Principal Architect level. Covers core engineering philosophy (correctness, clarity, changeability), design patterns with selection heuristics, architecture principles, performance optimization, naming and function design, error handling, testing strategy, code smell catalogs, refactoring methodology, and anti-patterns across all languages.
+---
 
-## Structure
-
-```
-distinguished-engineer-code-quality/
-  SKILL.md       # Main skill file - read this first
-  AGENTS.md      # This navigation guide
-  CLAUDE.md      # Symlink to AGENTS.md
-  references/    # Detailed reference files
-```
-
-## Usage
-
-1. Read `SKILL.md` for the main skill instructions
-2. Browse `references/` for detailed documentation on specific topics
-3. Reference files are loaded on-demand - read only what you need
+# Code Quality Best Practices
 
 Every line of code must satisfy three invariants simultaneously: correctness, clarity, and changeability. They are not in tension — at the DE level, they reinforce each other.
 

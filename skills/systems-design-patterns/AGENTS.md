@@ -1,9 +1,9 @@
-# Systems-Level Code Leverage
+# Systems Design Patterns
 
 ## Structure
 
 ```
-systems-level-code-leverage/
+systems-design-patterns/
   SKILL.md       # Main skill file - read this first
   AGENTS.md      # This navigation guide
   CLAUDE.md      # Symlink to AGENTS.md

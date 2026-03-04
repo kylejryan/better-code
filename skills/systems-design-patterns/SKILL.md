@@ -1,5 +1,5 @@
 ---
-name: systems-level-code-leverage
+name: systems-design-patterns
 description: Staff+ engineering patterns for maximum leverage per line of code. Use this skill when designing abstractions, building reusable primitives, creating shared libraries, reducing code through architecture, reviewing code for leverage and reuse potential, choosing between building vs configuring, or establishing conventions and patterns across a codebase.
 license: MIT
 metadata:
@@ -10,7 +10,7 @@ metadata:
   abstract: Systems-level code leverage guide for staff-plus engineers. Covers leverage mindset (primitives over features, lines as liability), abstraction design (Three Cs, vocabulary layers, extraction decisions), minimum code patterns (convention over configuration, schema-driven development, registries, pipelines), system boundaries (internal APIs as products, DRY across boundaries), code reduction through design (eliminate states, branching, ceremony), and a review lens for evaluating existence, placement, shape, minimum, and composability.
 ---
 
-# Systems-Level Code Leverage
+# Systems Design Patterns
 
 Every line you write is a line someone must read, understand, test, debug, and maintain. The goal: engineers working in this codebase should feel like they're assembling, not building. The hard problems are solved once, in the right place, and everything else is composition.
 
