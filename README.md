@@ -1,6 +1,6 @@
 # Better Code
 
-Agent Skills for engineering excellence — code quality best practices,
+Agent Skills for engineering excellence—code quality best practices,
 systems design patterns, and expert vulnerability analysis. Agent Skills are
 folders of instructions, scripts, and resources that agents like Claude Code,
 Cursor, Github Copilot, etc... can discover and use to write better code.
