@@ -41,3 +41,7 @@ sources = ["**/*.ts", "**/*.js", "**/*.json", "biome.json"]
 description = "Run tests"
 run = "vitest run"
 sources = ["test/**", "skills/**"]
+
+[tasks."cve:analyze"]
+description = "Fetch CVEs, analyze patterns, generate draft reference files"
+run = "npx tsx packages/skills-build/src/cve/index.ts"
