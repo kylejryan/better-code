@@ -56,6 +56,16 @@ Skills follow the [Agent Skills Open Standard](https://agentskills.io/).
 4. Add reference files: `{prefix}-{reference-name}.md`
 5. Run `mise run build`
 
+## Installing a Skill into Claude Code
+
+Symlink the skill directory into `~/.claude/skills/`:
+
+```bash
+ln -s /Users/kyle/Documents/kylejryan/agent-skills/code-quality/skills/{skill-name} ~/.claude/skills/{skill-name}
+```
+
+The skill will be available as `/{skill-name}` in the next Claude Code session.
+
 ---
 
 ## Writing SKILL.md Files
