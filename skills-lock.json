@@ -1,0 +1,50 @@
+{
+	"version": 1,
+	"skills": {
+		"code-quality-best-practices": {
+			"source": "/Users/kyle/Documents/kylejryan/agent-skills/code-quality",
+			"sourceType": "local",
+			"computedHash": "41974d3f9e2cac600dd5175b758daf010015316ea949dd1c95969e141f5154a0"
+		},
+		"cybersecurity-dashboard-ux": {
+			"source": "/Users/kyle/Documents/kylejryan/agent-skills/code-quality",
+			"sourceType": "local",
+			"computedHash": "deec1753a0e288b5a1ef356bd2883fc57d7c29381cd91a8482fefc3070911563"
+		},
+		"data-structures": {
+			"source": "/Users/kyle/Documents/kylejryan/agent-skills/code-quality",
+			"sourceType": "local",
+			"computedHash": "fa29fd022f34f5e58b57d5ea24330506b2a05a1b49745dde4f9c737dd6861534"
+		},
+		"root-cause-analysis": {
+			"source": "/Users/kyle/Documents/kylejryan/agent-skills/code-quality",
+			"sourceType": "local",
+			"computedHash": "bd8a07ef15735932bf9ffda5c5ecdee3331f700d5361eb2189915da6f5991982"
+		},
+		"software-testing": {
+			"source": "/Users/kyle/Documents/kylejryan/agent-skills/code-quality",
+			"sourceType": "local",
+			"computedHash": "530e7eff4ec129931502a9d2e70f934ab601fb59e7ff5c62bd0548e65aebafa1"
+		},
+		"systems-design-patterns": {
+			"source": "/Users/kyle/Documents/kylejryan/agent-skills/code-quality",
+			"sourceType": "local",
+			"computedHash": "a68f4339f84b6499cb85b6ebdff2e487a4acbf7988e19de48c2fdb76117fe647"
+		},
+		"targeted-vuln-analysis": {
+			"source": "/Users/kyle/Documents/kylejryan/agent-skills/code-quality",
+			"sourceType": "local",
+			"computedHash": "7fd47e4389b50233fa70207f6bb672f417761bc03047a00a0d78552d2419e147"
+		},
+		"threat-model": {
+			"source": "/Users/kyle/Documents/kylejryan/agent-skills/code-quality",
+			"sourceType": "local",
+			"computedHash": "b9288134985da4a5dcfd0bf9e019f5b30657c7079c796046b7cf5315f81b4a0a"
+		},
+		"vulnerability-analysis": {
+			"source": "/Users/kyle/Documents/kylejryan/agent-skills/code-quality",
+			"sourceType": "local",
+			"computedHash": "64a18274baa3999d11e3a6f0d211d1bab61b7d2b4385aeb7ca0360ac4bc4469a"
+		}
+	}
+}
